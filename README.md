@@ -1,3 +1,6 @@
+# Learning React with covid-tracking-app
+From tutorial: https://www.youtube.com/watch?v=EyV9fqoWhzc&t=12s&ab_channel=HoleTex
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
